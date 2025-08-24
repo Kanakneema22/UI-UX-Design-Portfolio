@@ -2,8 +2,6 @@
 
 A visually appealing and user-friendly **UI/UX Designer portfolio**, showcasing your design skills, case studies, and contact info. Perfect for presenting your design approach and projects to potential clients or employers.
 
-** Live Demo:** *(Insert your hosted URL here—e.g., Vercel, Netlify, or GitHub Pages)*
-
 ---
 
 ##  Features
@@ -18,9 +16,9 @@ A visually appealing and user-friendly **UI/UX Designer portfolio**, showcasing 
 
 ##  Tech Stack
 
-- **HTML5** / **CSS3** – Semantic markup and styling  
-- **JavaScript (Optional)** – For interactive behaviors such as toggles or animations  
-- *(Optional)* CSS frameworks or preprocessors (e.g., Sass, Tailwind CSS) if used
+- **HTML5** / **Tailwind CSS** – Semantic markup and styling  
+- **JavaScript ** – For interactive behaviors such as toggles or animations  
+-  CSS frameworks or preprocessors (e.g., Sass, Tailwind CSS) if used
 
 ---
 
