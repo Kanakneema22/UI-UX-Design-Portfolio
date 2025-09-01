@@ -9,7 +9,7 @@ A visually appealing and user-friendly **UI/UX Designer portfolio**, showcasing 
 - Clean, modern UI that reflects strong UX design principles  
 - Interactive Portfolio & Case Study Sections  
 - Well-structured for showcasing multiple projects  
-- Fully responsive across devices (mobile, tablet, desktop)  
+- Fully responsive across devices (tablet, desktop)  
 - Easily customizable with your personal branding (colors, fonts, images)  
 
 ---
